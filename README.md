@@ -1,5 +1,5 @@
 Student Learning Access Portal (SLAP) Interface - Client Repository
-This repository contains the frontend codebase for the Student Learning Access Portal (SLAP) Interface. Built using React and TypeScript, this project aims to streamline communication, coordination, and assignment submission between students, instructors, and administrators.
+This repository contains the codebase for the Student Learning Access Portal (SLAP) Interface. Built using MERN stack, this project aims to streamline communication, coordination, and assignment submission between students, instructors, and administrators.
 
 Table of Contents
 Purpose
@@ -12,11 +12,9 @@ The Student Learning Access Portal (SLAP) Interface is designed to support unive
 The requirements outlined in this README are based on user feedback and are intended for development teams working on the SLAP Interface.
 
 2. Technologies
-The project is developed with the following stack:
+The project is developed with MERN stack:
 
-React for UI development
-TypeScript for static typing
-CSS/SCSS for styling
+
 useContext and cookie-parser for session management and user state
 3. Features
 Administrator Functionality
